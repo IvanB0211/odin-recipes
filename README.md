@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first project in the Odin project. This project is about HTML and all the rules that I learned so far.
