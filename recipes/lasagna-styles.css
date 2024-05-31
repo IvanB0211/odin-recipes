@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(231, 187, 120);
+}
+h1,
+h2,
+h3,
+h4 {
+    background-color: antiquewhite;
+    color: rgb(138, 53, 53);
+}
+
+ol > li {
+    color: red;
+}
